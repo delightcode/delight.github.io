@@ -1,0 +1,43 @@
+body{
+    color: white;
+    font-family: 'Lucida Sans', sans-serif;
+    background-color: #4e421c;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 8px;
+    margin-bottom: 7px;
+}
+li:hover{
+    background-color: black;
+}
+.header{
+    background-color: #9933cc;
+    /* height: 30rem; */
+    padding: 15px;
+}
+.side{
+    background-color: #33b5e5;
+}
+.flex{
+    display: flex;
+}
+.center{
+        padding: 2rem;
+    /* width: 40rem; */
+    color: black;
+}
+.left{
+    width: 20rem;
+}
+.right{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bottom{
+    text-align: center;
+    padding: 15px;
+}
